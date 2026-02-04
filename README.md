@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👩‍💻 Currently interning as a frontend web developer, building interactive and user-friendly web experiences.<br><br>🧠 I am learning game development in Godot and expanding my backend development skills in my free time.<br><br>🪴 In my free time, I’m developing my own game and collaborating on a website project.</p>
+<p align="left">👩‍💻 Currently interning as a frontend web developer, building interactive and user-friendly web experiences.<br><br>🧠 I am learning game development in Godot and expanding my backend development skills on the side.<br><br>🪴 In my free time, I’m developing my own game and collaborating on a website project.</p>
 
 ###
 
