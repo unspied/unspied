@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Language and tools im most familliar with</h3>
+<h3 align="left">Languages and tools im most familliar with</h3>
 
 ###
 
